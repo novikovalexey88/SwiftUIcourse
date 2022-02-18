@@ -24,7 +24,6 @@ struct TernaryBootcamp: View {
                        height: isStartingState ? 400 : 43)
                 
             }
-        Spacer()
         }
     }
 

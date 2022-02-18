@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		810CBE8C27BFAF1900C96F67 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810CBE8B27BFAF1900C96F67 /* AnimationBootcamp.swift */; };
 		812FE67527AB767300C1C7A0 /* SwiftUIcourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812FE67427AB767300C1C7A0 /* SwiftUIcourseApp.swift */; };
 		812FE67727AB767300C1C7A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812FE67627AB767300C1C7A0 /* ContentView.swift */; };
 		812FE67927AB767400C1C7A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 812FE67827AB767400C1C7A0 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		810CBE8B27BFAF1900C96F67 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		812FE67127AB767300C1C7A0 /* SwiftUIcourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIcourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		812FE67427AB767300C1C7A0 /* SwiftUIcourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIcourseApp.swift; sourceTree = "<group>"; };
 		812FE67627AB767300C1C7A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				819C238727BE67480075E425 /* BindingBootcamp.swift */,
 				819C238B27BE74570075E425 /* ConditionalBootcamp.swift */,
 				819C238F27BE80010075E425 /* TernaryBootcamp.swift */,
+				810CBE8B27BFAF1900C96F67 /* AnimationBootcamp.swift */,
 				812FE67827AB767400C1C7A0 /* Assets.xcassets */,
 				812FE67D27AB767400C1C7A0 /* Info.plist */,
 				812FE67A27AB767400C1C7A0 /* Preview Content */,
@@ -170,6 +173,7 @@
 				812FE69127AB81DB00C1C7A0 /* Statebootcamp.swift in Sources */,
 				812FE67727AB767300C1C7A0 /* ContentView.swift in Sources */,
 				812FE68E27AB7BBA00C1C7A0 /* ButtonBootcamp.swift in Sources */,
+				810CBE8C27BFAF1900C96F67 /* AnimationBootcamp.swift in Sources */,
 				812FE67527AB767300C1C7A0 /* SwiftUIcourseApp.swift in Sources */,
 				819C238527BE5FF30075E425 /* ExtractSubviesBootcamp.swift in Sources */,
 			);
